@@ -6,8 +6,6 @@ import (
   "os"
   "code.google.com/p/go.net/websocket"
   "io"
-  "net/http"
-  "fmt"
   "log"
 )
 
